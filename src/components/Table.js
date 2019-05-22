@@ -6,10 +6,6 @@ class TableLayout extends React.Component {
 
     render() {
         const columns = [{
-            title: 'ID',
-            dataIndex: '_id',
-            key: 'id'
-        }, {
             title: 'NAME',
             dataIndex: 'name',
             key: 'name',
