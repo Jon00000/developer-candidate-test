@@ -1,13 +1,13 @@
 
-======
 Refactionjs
 
 ## Usage
-```
+```bash
    $ git clone https://github.com/Jon00000/developer-candidate-test.git
+   $ cd developer-candidate-test
    $ npm install
-   $ npm run server //start the fake backend sever, port:3000
-   $ npm start //start front end sever, port:8000 
+   $ npm run server      #start the fake backend sever, port:3000
+   $ npm start           #start front end sever, port:8000 
 ```
 
 ## Architecture after Rebuild
