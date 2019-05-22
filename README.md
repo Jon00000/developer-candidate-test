@@ -6,8 +6,8 @@ Refactionjs
    $ git clone https://github.com/Jon00000/developer-candidate-test.git
    $ cd developer-candidate-test
    $ npm install
-   $ npm run server      #start the fake backend sever, port:3000
-   $ npm start           #start front end sever, port:8000 
+   $ npm run server      #start backend sever, port:3000
+   $ npm start           #start frontend sever, port:8000 
 ```
 
 ## Architecture after Rebuild
@@ -29,7 +29,7 @@ Refactionjs
 * Rebuild the business logic, web serving, and data access, now it is more clear than before.
 * Client side development with React and third party UI library.
 * Rewrite the code with ES6 features.
-* Full support with Weblogic, Babel, linter.
+* Full support with Weblogic, Babel.
 * Better statement management with Redux, Redux-saga
 * More reasonable filter logic
 * ...
